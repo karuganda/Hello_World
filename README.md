@@ -5,3 +5,7 @@ This application has more parameters.
 
 Usage: HelloW [Arguments] [Options ...] [CommandLine]
 
+When your HelloW alone it will display Hello World
+
+eg: 'Hello\ World.exe' Frank
+> Hello Frank
